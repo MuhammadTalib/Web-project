@@ -97,7 +97,10 @@
                       "borderStyle": "solid",
                       "background": "#BFA708"
                     },
-                    "listItemIcon": { "color": "white", "margin-left": "5px" },
+                    "listItemIcon": {
+                      "color": "#CF0707",
+                      "margin-left": "5px"
+                    },
                     "mainContainer": "subMenuItemClass",
                     "xl": 1,
                     "lg": 1,
@@ -352,7 +355,7 @@
           "borderStyle": "solid",
           "background": "#BFA708"
         },
-        "listItemIcon": { "color": "white", "margin-left": "5px" },
+        "listItemIcon": { "color": "#CF0707", "margin-left": "5px" },
         "mainContainer": "subMenuItemClass",
         "xl": 1,
         "lg": 1,
