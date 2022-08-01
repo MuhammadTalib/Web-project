@@ -81,24 +81,18 @@
                   "layoutProperties": {
                     "menuItemClass": {
                       "color": "white",
-                      "background-color": "#1c2b5a",
-                      "borderColor": "#BB0C0C",
-                      "borderStyle": "solid",
-                      "borderWidth": "2px",
-                      "background": "#286A0B",
+                      "background-color": "#333333",
+                      "background": "#333333",
                       "height": "60px"
                     },
                     "subMenuItemClass": {
-                      "color": "#EB47B7",
+                      "color": "#9db5c0",
                       "background-color": "#394c85",
                       "height": "40px",
-                      "borderColor": "#B1BEFB",
-                      "borderWidth": "4px",
-                      "borderStyle": "solid",
-                      "background": "#BFA708"
+                      "background": "#28303b"
                     },
                     "listItemIcon": {
-                      "color": "#CF0707",
+                      "color": "#999999",
                       "margin-left": "5px"
                     },
                     "mainContainer": "subMenuItemClass",
@@ -339,23 +333,17 @@
       "layoutProperties": {
         "menuItemClass": {
           "color": "white",
-          "background-color": "#1c2b5a",
-          "borderColor": "#BB0C0C",
-          "borderStyle": "solid",
-          "borderWidth": "2px",
-          "background": "#286A0B",
+          "background-color": "#333333",
+          "background": "#333333",
           "height": "60px"
         },
         "subMenuItemClass": {
-          "color": "#EB47B7",
+          "color": "#9db5c0",
           "background-color": "#394c85",
           "height": "40px",
-          "borderColor": "#B1BEFB",
-          "borderWidth": "4px",
-          "borderStyle": "solid",
-          "background": "#BFA708"
+          "background": "#28303b"
         },
-        "listItemIcon": { "color": "#CF0707", "margin-left": "5px" },
+        "listItemIcon": { "color": "#999999", "margin-left": "5px" },
         "mainContainer": "subMenuItemClass",
         "xl": 1,
         "lg": 1,
