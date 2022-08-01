@@ -89,7 +89,7 @@
                       "height": "60px"
                     },
                     "subMenuItemClass": {
-                      "color": "#B90E0E",
+                      "color": "#EB47B7",
                       "background-color": "#394c85",
                       "height": "40px",
                       "borderColor": "#B1BEFB",
@@ -347,7 +347,7 @@
           "height": "60px"
         },
         "subMenuItemClass": {
-          "color": "#B90E0E",
+          "color": "#EB47B7",
           "background-color": "#394c85",
           "height": "40px",
           "borderColor": "#B1BEFB",
