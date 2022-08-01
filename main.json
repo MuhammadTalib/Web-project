@@ -7,6 +7,7 @@
     "version": "1.0.0",
     "mainComponentId": "w2EjLMSRlmbsm3mIK8d84",
     "locale": "en",
+    "appMode": "dev",
     "globalErrorType": "INLINE",
     "showWidgetError": true,
     "showWidgetSuccess": true,
@@ -26,7 +27,17 @@
     ],
     "currentMode": "61b3836641f0ba30405a2d90",
     "theme": "",
-    "securityConfigurations": [],
+    "securityConfigurations": [
+      {
+        "_id": "62e7e6322628d146a4bb7797",
+        "name": "POSTMAN",
+        "baseUrl": "https://9d688355-247d-402b-807e-67df10b019a5.mock.pstmn.io",
+        "authorizationType": "JWT",
+        "mode": "61b3836641f0ba30405a2d90",
+        "updatedAt": "2022-08-01T14:41:54.298Z",
+        "createdAt": "2022-08-01T14:41:54.298Z"
+      }
+    ],
     "autoHideDuration": 10,
     "components": [],
     "triggers": [],
