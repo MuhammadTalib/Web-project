@@ -1,0 +1,39 @@
+[
+  {
+    "_id": "62e0ce42e6864b13b640ac9a",
+    "gitBranchName": "master",
+    "id": "5t2ETAbDpqT4qrSNUk13K",
+    "projectId": "62d559612be9b31bb41ee7c4",
+    "Documentation": "<div>components 12344</div>",
+    "attributes": {
+      "variant": "contained",
+      "name": "Button",
+      "label-locale-key": "",
+      "fullWidth": true,
+      "layoutProperties": {
+        "button": { "//": "Use this class to style button component." },
+        "inputProps": { "//": "Use this class to style button element." },
+        "mainContainer": "button",
+        "xl": 12,
+        "lg": 12,
+        "md": 12,
+        "sm": 12,
+        "xs": 12
+      },
+      "asset": null,
+      "iconname": "FaBox",
+      "iconName": "FaBox"
+    },
+    "createdAt": "2022-07-27T05:33:54.116Z",
+    "createdBy": "talib",
+    "events": [],
+    "icon": "FaBimobject",
+    "name": "Button",
+    "screenId": "kAGWWpyTj6ZoMGXpHhs_7",
+    "status": "ACTIVE",
+    "subType": "component",
+    "type": "20006",
+    "updatedBy": "talib",
+    "version": "1.0.0"
+  }
+]
