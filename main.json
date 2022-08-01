@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "projectId": 1,
+  "config": {
+    "id": 1,
+    "name": "projectTalib",
+    "version": "1.0.0",
+    "mainComponentId": "w2EjLMSRlmbsm3mIK8d84",
+    "locale": "en",
+    "globalErrorType": "INLINE",
+    "showWidgetError": true,
+    "showWidgetSuccess": true,
+    "autoHideMessage": false,
+    "closeableMessage": true,
+    "modes": [
+      {
+        "_id": "61b3836641f0ba30405a2d90",
+        "name": "Development",
+        "configs": {
+          "_id": "62e7df6936ebd62558ff3487",
+          "serverPort": 3001,
+          "clientPort": 3000,
+          "ip": "localhost"
+        }
+      }
+    ],
+    "currentMode": "61b3836641f0ba30405a2d90",
+    "theme": "",
+    "securityConfigurations": [],
+    "autoHideDuration": 10,
+    "components": [],
+    "triggers": [],
+    "assets": []
+  }
+}

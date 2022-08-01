@@ -1,9 +1,9 @@
 [
   {
-    "_id": "62e7a4b3e6864b13b644f2c0",
+    "_id": "62e7e3992628d146a4bb7690",
     "gitBranchName": "master",
     "id": "w2EjLMSRlmbsm3mIK8d84",
-    "projectId": "62d559612be9b31bb41ee7c4",
+    "projectId": "62e7df6936ebd62558ff3485",
     "attributes": {
       "gridProps": [
         {
@@ -21,7 +21,7 @@
         }
       ]
     },
-    "createdAt": "2022-08-01T10:02:28.452Z",
+    "createdAt": "2022-08-01T14:30:49.209Z",
     "createdBy": "talib",
     "events": [],
     "layout": [
@@ -103,7 +103,8 @@
                     "lg": 1,
                     "md": 1,
                     "sm": 1,
-                    "xs": 1
+                    "xs": 1,
+                    "sideBarMainContainer": { "background": "#602064" }
                   },
                   "menuActivityLogTriggerId": "",
                   "markFavouriteTriggerId": "",
@@ -260,10 +261,10 @@
     "version": "1.0.0"
   },
   {
-    "_id": "62e7a4b3e6864b13b644f2c1",
+    "_id": "62e7e3992628d146a4bb7691",
     "gitBranchName": "master",
     "id": "3GEQBYmHeIuarJyh25tl9",
-    "projectId": "62d559612be9b31bb41ee7c4",
+    "projectId": "62e7df6936ebd62558ff3485",
     "attributes": {
       "gridProps": [
         {
@@ -309,7 +310,7 @@
       "direction": "row",
       "name": "Grid layout"
     },
-    "createdAt": "2022-08-01T10:02:28.452Z",
+    "createdAt": "2022-08-01T14:30:49.209Z",
     "createdBy": "talib",
     "events": [],
     "layout": null,
@@ -321,10 +322,10 @@
     "version": "1.0.0"
   },
   {
-    "_id": "62e7a4b3e6864b13b644f2c2",
+    "_id": "62e7e3992628d146a4bb7692",
     "gitBranchName": "master",
     "id": "M9pH4oPlDVW3OcDulaeQO",
-    "projectId": "62d559612be9b31bb41ee7c4",
+    "projectId": "62e7df6936ebd62558ff3485",
     "Documentation": "",
     "attributes": {
       "label": "Sidebar",
@@ -357,7 +358,8 @@
         "lg": 1,
         "md": 1,
         "sm": 1,
-        "xs": 1
+        "xs": 1,
+        "sideBarMainContainer": { "background": "#602064" }
       },
       "menuActivityLogTriggerId": "",
       "markFavouriteTriggerId": "",
@@ -372,8 +374,9 @@
       "storeType": 2,
       "permissions": []
     },
-    "createdAt": "2022-08-01T10:02:28.452Z",
+    "createdAt": "2022-08-01T14:30:49.209Z",
     "createdBy": "talib",
+    "events": [],
     "icon": "FaListAlt",
     "name": "Sidebar",
     "screenId": "w2EjLMSRlmbsm3mIK8d84",
@@ -381,14 +384,13 @@
     "subType": "component",
     "type": "20022",
     "updatedBy": "talib",
-    "version": "1.0.0",
-    "events": []
+    "version": "1.0.0"
   },
   {
-    "_id": "62e7a4b3e6864b13b644f2c3",
+    "_id": "62e7e3992628d146a4bb7693",
     "gitBranchName": "master",
     "id": "11NjYDJJViPNBAPrLmZKn",
-    "projectId": "62d559612be9b31bb41ee7c4",
+    "projectId": "62e7df6936ebd62558ff3485",
     "attributes": {
       "gridProps": [
         {
@@ -421,7 +423,7 @@
       "direction": "row",
       "name": "Grid layout"
     },
-    "createdAt": "2022-08-01T10:02:28.452Z",
+    "createdAt": "2022-08-01T14:30:49.209Z",
     "createdBy": "talib",
     "events": [],
     "layout": null,
@@ -433,10 +435,10 @@
     "version": "1.0.0"
   },
   {
-    "_id": "62e7a4b3e6864b13b644f2c4",
+    "_id": "62e7e3992628d146a4bb7694",
     "gitBranchName": "master",
     "id": "BliGUxdul-9Fn8L92URCP",
-    "projectId": "62d559612be9b31bb41ee7c4",
+    "projectId": "62e7df6936ebd62558ff3485",
     "attributes": {
       "label": "Label",
       "variant": "body1",
@@ -457,7 +459,7 @@
         "xs": 12
       }
     },
-    "createdAt": "2022-08-01T10:02:28.452Z",
+    "createdAt": "2022-08-01T14:30:49.209Z",
     "createdBy": "talib",
     "events": [],
     "icon": "FaFont",
