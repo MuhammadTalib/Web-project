@@ -9,17 +9,17 @@
   "status": "ACTIVE",
   "services": [
     {
-      "_id": "62e7e6792628d146a4bb7806",
+      "_id": "62e7e6bc2628d146a4bb78d2",
       "type": "8",
       "command": {
         "responseHandler": [],
         "returns": [],
-        "_id": "62e7e6792628d146a4bb7807",
+        "_id": "62e7e6bc2628d146a4bb78d3",
         "attributes": {
           "loaderWidgetIds": [906070],
           "messageWidgetIds": [906070],
           "responseStateKey": "accounts",
-          "url": "https://9d688355-247d-402b-807e-67df10b019a5.mock.pstmn.io",
+          "url": "/fetchAccountGET",
           "checksum": true,
           "encryption": true,
           "isDeviceDetails": true,
@@ -34,8 +34,7 @@
             "locale": "en-ltr"
           },
           "requestBody": [],
-          "baseURL": "62e7e6322628d146a4bb7797",
-          "storeType": 2
+          "baseURL": "62e7e6322628d146a4bb7797"
         },
         "type": "1"
       }
@@ -43,5 +42,5 @@
   ],
   "createdAt": "01-Aug-2022",
   "updatedAt": "01-Aug-2022",
-  "__v": 0
+  "__v": 1
 }
