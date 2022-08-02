@@ -105,7 +105,8 @@
                     "xs": 12
                   },
                   "placeholder": "Date",
-                  "disableUnderline": true
+                  "disableUnderline": true,
+                  "calenderIconPosition": "start"
                 },
                 "version": "1.0.0",
                 "isLatest": true,
@@ -113,6 +114,53 @@
                 "component": { "content": "Date picker", "type": "20027" },
                 "event": [],
                 "path": "0-0-0",
+                "events": []
+              },
+              {
+                "id": "0VVdDlNvyGKSR5tIN2-pc",
+                "status": "ACTIVE",
+                "name": "Date picker",
+                "icon": "FaCalendarDay",
+                "group": "Form",
+                "updatedAt": "23-Aug-2021",
+                "createdAt": "23-Aug-2021",
+                "order": 3,
+                "type": "20027",
+                "attributes": {
+                  "name": "Calendar",
+                  "label": "",
+                  "stateName": "asgfqweg",
+                  "format": "dd/MM/yyyy",
+                  "variant": "standard",
+                  "validate": {
+                    "required": false,
+                    "errorMsg": "",
+                    "isCalendar": true
+                  },
+                  "layoutProperties": {
+                    "dateCalendar": {
+                      "//": "Use this class to style calender component.",
+                      "borderColor": "#213D91",
+                      "borderStyle": "solid",
+                      "borderWidth": "2px",
+                      "borderRadius": "5px"
+                    },
+                    "mainContainer": "dateCalendar",
+                    "xl": 12,
+                    "lg": 12,
+                    "md": 12,
+                    "sm": 12,
+                    "xs": 12
+                  },
+                  "calenderIconPosition": "end",
+                  "disableUnderline": true
+                },
+                "version": "1.0.0",
+                "isLatest": true,
+                "projectType": "web",
+                "component": { "content": "Date picker", "type": "20027" },
+                "event": [],
+                "path": "0-0-1",
                 "events": []
               }
             ],
@@ -152,6 +200,18 @@
             "xs": 12
           },
           "componentId": "ZXjtycsogAWnQY9_JBfZp",
+          "componentType": "20027",
+          "order": 1
+        },
+        {
+          "layoutProperties": {
+            "xl": 12,
+            "lg": 12,
+            "md": 12,
+            "sm": 12,
+            "xs": 12
+          },
+          "componentId": "0VVdDlNvyGKSR5tIN2-pc",
           "componentType": "20027",
           "order": 1
         }
@@ -212,9 +272,52 @@
         "xs": 12
       },
       "placeholder": "Date",
-      "disableUnderline": true
+      "disableUnderline": true,
+      "calenderIconPosition": "start"
     },
     "createdAt": "2022-08-02T07:05:11.610Z",
+    "createdBy": "talib",
+    "events": [],
+    "icon": "FaCalendarDay",
+    "name": "Date picker",
+    "screenId": "bTXAN7WuQ-hg-BRwO8hp7",
+    "status": "ACTIVE",
+    "subType": "component",
+    "type": "20027",
+    "updatedBy": "talib",
+    "version": "1.0.0"
+  },
+  {
+    "_id": "62e8dba0e6864b13b6464494",
+    "gitBranchName": "master",
+    "id": "0VVdDlNvyGKSR5tIN2-pc",
+    "projectId": "62e7df6936ebd62558ff3485",
+    "attributes": {
+      "name": "Calendar",
+      "label": "",
+      "stateName": "asgfqweg",
+      "format": "dd/MM/yyyy",
+      "variant": "standard",
+      "validate": { "required": false, "errorMsg": "", "isCalendar": true },
+      "layoutProperties": {
+        "dateCalendar": {
+          "//": "Use this class to style calender component.",
+          "borderColor": "#213D91",
+          "borderStyle": "solid",
+          "borderWidth": "2px",
+          "borderRadius": "5px"
+        },
+        "mainContainer": "dateCalendar",
+        "xl": 12,
+        "lg": 12,
+        "md": 12,
+        "sm": 12,
+        "xs": 12
+      },
+      "calenderIconPosition": "end",
+      "disableUnderline": true
+    },
+    "createdAt": "2022-08-02T08:09:04.635Z",
     "createdBy": "talib",
     "events": [],
     "icon": "FaCalendarDay",
