@@ -362,7 +362,9 @@
         "sm": 1,
         "xs": 1,
         "sideBarMainContainer": { "background": "#602064" },
-        "gridProps": [
+       
+      },
+       "gridProps": [
         {
           "layoutProperties": {
             "xl": 12,
@@ -375,8 +377,7 @@
           "componentType": "20002",
           "order": 1
         }
-      ]
-      },
+      ],
       "menuActivityLogTriggerId": "",
       "markFavouriteTriggerId": "",
       "submenuNameKey": "acT",
