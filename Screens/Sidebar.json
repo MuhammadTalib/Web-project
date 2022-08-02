@@ -361,7 +361,7 @@
         "md": 1,
         "sm": 1,
         "xs": 1,
-        "sideBarMainContainer": { "background": "#602064" },
+        "sideBarMainContainer": { "background": "#602064" }
        
       },
        "gridProps": [
