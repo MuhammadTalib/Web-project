@@ -363,6 +363,20 @@
         "xs": 1,
         "sideBarMainContainer": { "background": "#602064" }
       },
+      "gridProps": [
+        {
+          "layoutProperties": {
+            "xl": 12,
+            "lg": 12,
+            "md": 12,
+            "sm": 12,
+            "xs": 12
+          },
+          "componentId": "BliGUxdul-9Fn8L92URCP",
+          "componentType": "20002",
+          "order": 1
+        }
+      ],
       "menuActivityLogTriggerId": "",
       "markFavouriteTriggerId": "",
       "submenuNameKey": "acT",
