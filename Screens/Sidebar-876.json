@@ -149,10 +149,14 @@
             },
             "subMenuItemClass": {
               "color": "white",
-              "background-color": "#394c85"
+              "background-color": "#394c85",
+              "height": "50px"
             },
             "listItemIcon": { "color": "white", "margin-left": "5px" },
-            "sideBarMainContainer": { "width": "350px" },
+            "sideBarMainContainer": {
+              "width": "350px",
+              "background": "#4E0DAF"
+            },
             "mainContainer": "sideBarMainContainer"
           },
           "menuActivityLogTriggerId": "",
@@ -168,7 +172,7 @@
           "storeType": 2,
           "permissions": []
         },
-        "path": "0",
+        "path": "1",
         "version": "1.0.0",
         "allowedContainers": ["noLayout"],
         "gridProps": [
@@ -387,9 +391,13 @@
           "background-color": "#1c2b5a",
           "height": "50px"
         },
-        "subMenuItemClass": { "color": "white", "background-color": "#394c85" },
+        "subMenuItemClass": {
+          "color": "white",
+          "background-color": "#394c85",
+          "height": "50px"
+        },
         "listItemIcon": { "color": "white", "margin-left": "5px" },
-        "sideBarMainContainer": { "width": "350px" },
+        "sideBarMainContainer": { "width": "350px", "background": "#4E0DAF" },
         "mainContainer": "sideBarMainContainer"
       },
       "menuActivityLogTriggerId": "",
