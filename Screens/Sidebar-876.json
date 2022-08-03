@@ -97,7 +97,60 @@
           {
             "type": "column",
             "id": "MEQFOhN6TusYKx43tlEvk",
-            "gridProps": [],
+            "gridProps": [
+              {
+                "id": "V4YGLXvjL5gXomZypWRhu",
+                "status": "ACTIVE",
+                "name": "Text Box",
+                "attributes": {
+                  "label": "swfqw",
+                  "name": "Text box",
+                  "label-locale-key": "",
+                  "maxLength": 20,
+                  "type": "text",
+                  "variant": "standard",
+                  "value": "",
+                  "readOnly": false,
+                  "tooltip": "",
+                  "font-family": "Verdana",
+                  "mandatory": true,
+                  "tooltipState": "",
+                  "layoutProperties": {
+                    "textField": {
+                      "//": "Use this class to style text field component."
+                    },
+                    "inputProps": {
+                      "//": "Use this class to style  text field element."
+                    },
+                    "mainContainer": "textField",
+                    "xl": 12,
+                    "lg": 12,
+                    "md": 12,
+                    "sm": 12,
+                    "xs": 12
+                  },
+                  "validate": {
+                    "required": false,
+                    "errorMsg": "This field is required"
+                  },
+                  "placeholder": "",
+                  "stateName": "ddd"
+                },
+                "icon": "FaWindowMinimize",
+                "group": "Form",
+                "type": "20004",
+                "Documentation": "<div>components 12344</div>",
+                "updatedAt": "23-Aug-2021",
+                "createdAt": "23-Aug-2021",
+                "order": 20,
+                "version": "1.0.0",
+                "isLatest": true,
+                "projectType": "web",
+                "component": { "content": "Text Box", "type": "20004" },
+                "events": [],
+                "path": "0-0-0"
+              }
+            ],
             "layoutProperties": {
               "xl": 12,
               "lg": 12,
@@ -254,7 +307,20 @@
     "id": "vFS34Jd0d7w1LEU_qiVbk",
     "projectId": "62e7df6936ebd62558ff3485",
     "attributes": {
-      "gridProps": [],
+      "gridProps": [
+        {
+          "layoutProperties": {
+            "xl": 12,
+            "lg": 12,
+            "md": 12,
+            "sm": 12,
+            "xs": 12
+          },
+          "componentId": "V4YGLXvjL5gXomZypWRhu",
+          "componentType": "20004",
+          "order": 1
+        }
+      ],
       "label": "Header",
       "layoutProperties": {
         "gridLayout": {
@@ -287,6 +353,51 @@
     "screenId": "x1xjxRrxgHR2rgCuC1YRY",
     "subType": "component",
     "type": "10001",
+    "updatedBy": "talib",
+    "version": "1.0.0"
+  },
+  {
+    "_id": "62ea638be6864b13b6483497",
+    "gitBranchName": "master",
+    "id": "V4YGLXvjL5gXomZypWRhu",
+    "projectId": "62e7df6936ebd62558ff3485",
+    "Documentation": "<div>components 12344</div>",
+    "attributes": {
+      "label": "swfqw",
+      "name": "Text box",
+      "label-locale-key": "",
+      "maxLength": 20,
+      "type": "text",
+      "variant": "standard",
+      "value": "",
+      "readOnly": false,
+      "tooltip": "",
+      "font-family": "Verdana",
+      "mandatory": true,
+      "tooltipState": "",
+      "layoutProperties": {
+        "textField": { "//": "Use this class to style text field component." },
+        "inputProps": { "//": "Use this class to style  text field element." },
+        "mainContainer": "textField",
+        "xl": 12,
+        "lg": 12,
+        "md": 12,
+        "sm": 12,
+        "xs": 12
+      },
+      "validate": { "required": false, "errorMsg": "This field is required" },
+      "placeholder": "",
+      "stateName": "ddd"
+    },
+    "createdAt": "2022-08-03T12:01:15.763Z",
+    "createdBy": "talib",
+    "events": [],
+    "icon": "FaWindowMinimize",
+    "name": "Text Box",
+    "screenId": "x1xjxRrxgHR2rgCuC1YRY",
+    "status": "ACTIVE",
+    "subType": "component",
+    "type": "20004",
     "updatedBy": "talib",
     "version": "1.0.0"
   }
