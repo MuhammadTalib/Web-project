@@ -47,7 +47,7 @@
               "background-color": "#394c85"
             },
             "listItemIcon": { "color": "white", "margin-left": "5px" },
-            "sideBarMainContainer": { "width": "250px" },
+            "sideBarMainContainer": { "width": "350px" },
             "mainContainer": "sideBarMainContainer"
           },
           "menuActivityLogTriggerId": "",
@@ -284,7 +284,7 @@
         },
         "subMenuItemClass": { "color": "white", "background-color": "#394c85" },
         "listItemIcon": { "color": "white", "margin-left": "5px" },
-        "sideBarMainContainer": { "width": "250px" },
+        "sideBarMainContainer": { "width": "350px" },
         "mainContainer": "sideBarMainContainer"
       },
       "menuActivityLogTriggerId": "",
