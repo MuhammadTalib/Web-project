@@ -39,7 +39,8 @@
           "layoutProperties": {
             "menuItemClass": {
               "color": "white",
-              "background-color": "#1c2b5a"
+              "background-color": "#1c2b5a",
+              "height": "50px"
             },
             "subMenuItemClass": {
               "color": "white",
@@ -276,7 +277,11 @@
       "isMenuActivityLogEnabled": false,
       "isFavoriteEnabled": false,
       "layoutProperties": {
-        "menuItemClass": { "color": "white", "background-color": "#1c2b5a" },
+        "menuItemClass": {
+          "color": "white",
+          "background-color": "#1c2b5a",
+          "height": "50px"
+        },
         "subMenuItemClass": { "color": "white", "background-color": "#394c85" },
         "listItemIcon": { "color": "white", "margin-left": "5px" },
         "sideBarMainContainer": { "width": "250px" },
