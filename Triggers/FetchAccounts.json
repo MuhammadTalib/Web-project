@@ -9,12 +9,12 @@
   "status": "ACTIVE",
   "services": [
     {
-      "_id": "62e7e6bc2628d146a4bb78d2",
+      "_id": "62ea62a230dc1725188adaa1",
       "type": "8",
       "command": {
         "responseHandler": [],
         "returns": [],
-        "_id": "62e7e6bc2628d146a4bb78d3",
+        "_id": "62ea62a230dc1725188adaa2",
         "attributes": {
           "loaderWidgetIds": [906070],
           "messageWidgetIds": [906070],
@@ -34,13 +34,14 @@
             "locale": "en-ltr"
           },
           "requestBody": [],
-          "baseURL": "62e7e6322628d146a4bb7797"
+          "baseURL": "62e7e6322628d146a4bb7797",
+          "storeType": 2
         },
         "type": "1"
       }
     }
   ],
   "createdAt": "01-Aug-2022",
-  "updatedAt": "01-Aug-2022",
-  "__v": 1
+  "updatedAt": "03-Aug-2022",
+  "__v": 2
 }
