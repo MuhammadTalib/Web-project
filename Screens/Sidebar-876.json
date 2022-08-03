@@ -18,6 +18,19 @@
             "h": null
           },
           "layoutProperties": { "lg": 12, "md": 12, "sm": 12, "xs": 12 }
+        },
+        {
+          "componentId": "K3oPEELpuoFj5FVP9sheO",
+          "componentType": "20022",
+          "id": "K3oPEELpuoFj5FVP9sheO",
+          "position": {
+            "i": "K3oPEELpuoFj5FVP9sheO",
+            "x": null,
+            "y": null,
+            "w": null,
+            "h": null
+          },
+          "layoutProperties": { "lg": 12, "md": 12, "sm": 12, "xs": 12 }
         }
       ]
     },
@@ -398,6 +411,62 @@
     "status": "ACTIVE",
     "subType": "component",
     "type": "20004",
+    "updatedBy": "talib",
+    "version": "1.0.0"
+  },
+  {
+    "_id": "62ea64aae6864b13b64836ac",
+    "gitBranchName": "master",
+    "id": "K3oPEELpuoFj5FVP9sheO",
+    "projectId": "62e7df6936ebd62558ff3485",
+    "attributes": {
+      "label": "Sidebar",
+      "name": "Sidebar",
+      "bindingKey": "accounts.body",
+      "isMenuActivityLogEnabled": false,
+      "isFavoriteEnabled": false,
+      "layoutProperties": {
+        "menuItemClass": { "color": "white", "background-color": "#1c2b5a" },
+        "subMenuItemClass": { "color": "white", "background-color": "#394c85" },
+        "listItemIcon": { "color": "white", "margin-left": "5px" },
+        "sideBarMainContainer": { "width": "250px" },
+        "mainContainer": "sideBarMainContainer"
+      },
+      "menuActivityLogTriggerId": "",
+      "markFavouriteTriggerId": "",
+      "submenuNameKey": "title",
+      "submenuIconKey": "s",
+      "submenuId": "d",
+      "submenuItemsKey": "f",
+      "menuNameKey": "title",
+      "menuIconKey": "h",
+      "menuId": "j",
+      "menuTriggerId": "WYDoytgKG6H25ENoW6fV0",
+      "storeType": 2,
+      "permissions": [],
+      "gridProps": [
+        {
+          "componentId": "81Mgbb6qIqhYNGVnXbRFp",
+          "componentType": "10001",
+          "id": "81Mgbb6qIqhYNGVnXbRFp",
+          "position": {
+            "i": "81Mgbb6qIqhYNGVnXbRFp",
+            "x": null,
+            "y": null,
+            "w": null,
+            "h": null
+          },
+          "layoutProperties": { "lg": 12, "md": 12, "sm": 12, "xs": 12 }
+        }
+      ]
+    },
+    "createdAt": "2022-08-03T12:06:02.503Z",
+    "createdBy": "talib",
+    "layout": null,
+    "name": "Sidebar",
+    "screenId": "x1xjxRrxgHR2rgCuC1YRY",
+    "subType": "component",
+    "type": "20022",
     "updatedBy": "talib",
     "version": "1.0.0"
   }
