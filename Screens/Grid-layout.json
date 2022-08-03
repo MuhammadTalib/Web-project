@@ -1,0 +1,520 @@
+[
+  {
+    "_id": "62e91edde6864b13b646c1c0",
+    "gitBranchName": "master",
+    "id": "lFo2_PRKyQXu0j_cDkBIo",
+    "projectId": "62e7df6936ebd62558ff3485",
+    "attributes": {
+      "gridProps": [
+        {
+          "componentId": "q7MdOJTSefb0aB6w4wFPC",
+          "componentType": "10001",
+          "id": "q7MdOJTSefb0aB6w4wFPC",
+          "position": {
+            "i": "q7MdOJTSefb0aB6w4wFPC",
+            "x": null,
+            "y": null,
+            "w": null,
+            "h": null
+          },
+          "layoutProperties": { "xl": 3, "lg": 3, "md": 3, "sm": 3, "xs": 3 }
+        },
+        {
+          "componentId": "zNvs_XRWMCjfxcTKpkYt-",
+          "componentType": "10001",
+          "id": "zNvs_XRWMCjfxcTKpkYt-",
+          "position": {
+            "i": "zNvs_XRWMCjfxcTKpkYt-",
+            "x": null,
+            "y": null,
+            "w": null,
+            "h": null
+          },
+          "layoutProperties": { "xl": 3, "lg": 3, "md": 3, "sm": 3, "xs": 3 }
+        }
+      ],
+      "label": "Header",
+      "layoutProperties": {
+        "gridLayout": {
+          "//": "Use this class to style grid layout component.",
+          "padding": "5px",
+          "spacing": 0
+        },
+        "mainContainer": "gridLayout"
+      },
+      "layoutProps": {
+        "direction": "row",
+        "justifyContent": "flex-start",
+        "alignItems": "flex-start"
+      },
+      "direction": "row",
+      "name": "Grid layout"
+    },
+    "createdAt": "2022-08-02T12:55:57.072Z",
+    "createdBy": "talib",
+    "events": [],
+    "layout": null,
+    "name": "Grid layout",
+    "screenId": "eY4mGARxSCakJzqtkk6HI",
+    "subType": "component",
+    "type": "10001",
+    "updatedBy": "talib",
+    "version": "1.0.0"
+  },
+  {
+    "_id": "62e91edde6864b13b646c1c1",
+    "gitBranchName": "master",
+    "id": "q7MdOJTSefb0aB6w4wFPC",
+    "projectId": "62e7df6936ebd62558ff3485",
+    "attributes": {
+      "gridProps": [
+        {
+          "layoutProperties": {
+            "xl": 12,
+            "lg": 12,
+            "md": 12,
+            "sm": 12,
+            "xs": 12
+          },
+          "componentId": "oIVUYkMeRNgGkGQWdpsgU",
+          "componentType": "20002",
+          "order": 1
+        }
+      ],
+      "label": "Header",
+      "layoutProperties": {
+        "gridLayout": {
+          "//": "Use this class to style grid layout component.",
+          "padding": "5px",
+          "spacing": 0,
+          "width": "100px"
+        },
+        "mainContainer": "gridLayout"
+      },
+      "layoutProps": {
+        "direction": "row",
+        "justifyContent": "flex-start",
+        "alignItems": "flex-start"
+      },
+      "direction": "row",
+      "name": "Grid layout"
+    },
+    "createdAt": "2022-08-02T12:55:57.072Z",
+    "createdBy": "talib",
+    "events": [],
+    "layout": null,
+    "name": "Grid layout",
+    "screenId": "eY4mGARxSCakJzqtkk6HI",
+    "subType": "component",
+    "type": "10001",
+    "updatedBy": "talib",
+    "version": "1.0.0"
+  },
+  {
+    "_id": "62e91edde6864b13b646c1c2",
+    "gitBranchName": "master",
+    "id": "oIVUYkMeRNgGkGQWdpsgU",
+    "projectId": "62e7df6936ebd62558ff3485",
+    "attributes": {
+      "label": "A",
+      "variant": "body1",
+      "name": "Label",
+      "mandatory": false,
+      "layoutProperties": {
+        "label": { "//": "Use this class to style label component." },
+        "mainContainer": "label",
+        "xl": 12,
+        "lg": 12,
+        "md": 12,
+        "sm": 12,
+        "xs": 12
+      }
+    },
+    "createdAt": "2022-08-02T12:55:57.072Z",
+    "createdBy": "talib",
+    "events": [],
+    "icon": "FaFont",
+    "name": "Label",
+    "screenId": "eY4mGARxSCakJzqtkk6HI",
+    "status": "ACTIVE",
+    "subType": "component",
+    "type": "20002",
+    "updatedBy": "talib",
+    "version": "1.0.0"
+  },
+  {
+    "_id": "62e91edde6864b13b646c1c3",
+    "gitBranchName": "master",
+    "id": "zNvs_XRWMCjfxcTKpkYt-",
+    "projectId": "62e7df6936ebd62558ff3485",
+    "attributes": {
+      "gridProps": [
+        {
+          "layoutProperties": {
+            "xl": 12,
+            "lg": 12,
+            "md": 12,
+            "sm": 12,
+            "xs": 12
+          },
+          "componentId": "tjbQNqCZElhitH_5fEsHW",
+          "componentType": "20002",
+          "order": 1
+        }
+      ],
+      "label": "Header",
+      "layoutProperties": {
+        "gridLayout": {
+          "//": "Use this class to style grid layout component.",
+          "padding": "5px",
+          "spacing": 0
+        },
+        "mainContainer": "gridLayout"
+      },
+      "layoutProps": {
+        "direction": "row",
+        "justifyContent": "flex-start",
+        "alignItems": "flex-start"
+      },
+      "direction": "row",
+      "name": "Grid layout"
+    },
+    "createdAt": "2022-08-02T12:55:57.072Z",
+    "createdBy": "talib",
+    "events": [],
+    "layout": null,
+    "name": "Grid layout",
+    "screenId": "eY4mGARxSCakJzqtkk6HI",
+    "subType": "component",
+    "type": "10001",
+    "updatedBy": "talib",
+    "version": "1.0.0"
+  },
+  {
+    "_id": "62e91edde6864b13b646c1c4",
+    "gitBranchName": "master",
+    "id": "tjbQNqCZElhitH_5fEsHW",
+    "projectId": "62e7df6936ebd62558ff3485",
+    "attributes": {
+      "label": "Label",
+      "variant": "body1",
+      "name": "Label",
+      "mandatory": false,
+      "layoutProperties": {
+        "label": { "//": "Use this class to style label component." },
+        "mainContainer": "label",
+        "xl": 12,
+        "lg": 12,
+        "md": 12,
+        "sm": 12,
+        "xs": 12
+      }
+    },
+    "createdAt": "2022-08-02T12:55:57.072Z",
+    "createdBy": "talib",
+    "events": [],
+    "icon": "FaFont",
+    "name": "Label",
+    "screenId": "eY4mGARxSCakJzqtkk6HI",
+    "status": "ACTIVE",
+    "subType": "component",
+    "type": "20002",
+    "updatedBy": "talib",
+    "version": "1.0.0"
+  },
+  {
+    "_id": "62e91f5ce6864b13b646c2ed",
+    "gitBranchName": "master",
+    "id": "BvYtcgfNkvm8IjvjtWTrt",
+    "projectId": "62e7df6936ebd62558ff3485",
+    "attributes": {
+      "gridProps": [
+        {
+          "layoutProperties": { "xl": 2, "lg": 2, "md": 2, "sm": 2, "xs": 2 },
+          "componentId": "vqTSBjryPwS2bbElUywlO",
+          "componentType": "20002",
+          "order": 1
+        },
+        {
+          "componentId": "O4CgZzn6qr6ISnbgDEh5f",
+          "componentType": "10001",
+          "id": "O4CgZzn6qr6ISnbgDEh5f",
+          "position": {
+            "i": "O4CgZzn6qr6ISnbgDEh5f",
+            "x": null,
+            "y": null,
+            "w": null,
+            "h": null
+          },
+          "layoutProperties": { "xl": 1, "lg": 1, "md": 1, "sm": 1, "xs": 1 }
+        }
+      ],
+      "label": "Header",
+      "layoutProperties": {
+        "gridLayout": {
+          "//": "Use this class to style grid layout component.",
+          "padding": "5px",
+          "spacing": 0
+        },
+        "mainContainer": "gridLayout"
+      },
+      "layoutProps": {
+        "direction": "row",
+        "justifyContent": "flex-start",
+        "alignItems": "flex-start"
+      },
+      "direction": "row",
+      "name": "Grid layout"
+    },
+    "createdAt": "2022-08-02T12:58:04.091Z",
+    "createdBy": "talib",
+    "events": [],
+    "layout": null,
+    "name": "Grid layout",
+    "screenId": "eY4mGARxSCakJzqtkk6HI",
+    "subType": "component",
+    "type": "10001",
+    "updatedBy": "talib",
+    "version": "1.0.0"
+  },
+  {
+    "_id": "62e91f5ce6864b13b646c2ee",
+    "gitBranchName": "master",
+    "id": "vqTSBjryPwS2bbElUywlO",
+    "projectId": "62e7df6936ebd62558ff3485",
+    "attributes": {
+      "label": "Label",
+      "variant": "body1",
+      "name": "Label",
+      "mandatory": false,
+      "layoutProperties": {
+        "label": {
+          "//": "Use this class to style label component.",
+          "background": "#413E70"
+        },
+        "mainContainer": "label",
+        "xl": 2,
+        "lg": 2,
+        "md": 2,
+        "sm": 2,
+        "xs": 2
+      }
+    },
+    "createdAt": "2022-08-02T12:58:04.091Z",
+    "createdBy": "talib",
+    "events": [],
+    "icon": "FaFont",
+    "name": "Label",
+    "screenId": "eY4mGARxSCakJzqtkk6HI",
+    "status": "ACTIVE",
+    "subType": "component",
+    "type": "20002",
+    "updatedBy": "talib",
+    "version": "1.0.0"
+  },
+  {
+    "_id": "62e91f5ce6864b13b646c2ef",
+    "gitBranchName": "master",
+    "id": "rt7XdC5V_VjOlQTyokgAQ",
+    "projectId": "62e7df6936ebd62558ff3485",
+    "attributes": {
+      "label": "Label",
+      "variant": "body1",
+      "name": "Label",
+      "mandatory": false,
+      "layoutProperties": {
+        "label": {
+          "//": "Use this class to style label component.",
+          "background": "#40A40A"
+        },
+        "mainContainer": "label",
+        "xl": 1,
+        "lg": 1,
+        "md": 1,
+        "sm": 1,
+        "xs": 1
+      }
+    },
+    "createdAt": "2022-08-02T12:58:04.091Z",
+    "createdBy": "talib",
+    "events": [],
+    "icon": "FaFont",
+    "name": "Label",
+    "screenId": "eY4mGARxSCakJzqtkk6HI",
+    "status": "ACTIVE",
+    "subType": "component",
+    "type": "20002",
+    "updatedBy": "talib",
+    "version": "1.0.0"
+  },
+  {
+    "_id": "62e91f8fe6864b13b646c35c",
+    "gitBranchName": "master",
+    "id": "O4CgZzn6qr6ISnbgDEh5f",
+    "projectId": "62e7df6936ebd62558ff3485",
+    "attributes": {
+      "gridProps": [
+        {
+          "layoutProperties": { "xl": 6, "lg": 6, "md": 6, "sm": 6, "xs": 6 },
+          "componentId": "VFF2ABelD_fPSsAOXks2P",
+          "componentType": "20002",
+          "order": 1
+        }
+      ],
+      "label": "Header",
+      "layoutProperties": {
+        "gridLayout": {
+          "//": "Use this class to style grid layout component.",
+          "padding": "5px",
+          "spacing": 0
+        },
+        "mainContainer": "gridLayout"
+      },
+      "layoutProps": {
+        "direction": "row",
+        "justifyContent": "flex-start",
+        "alignItems": "flex-start"
+      },
+      "direction": "row",
+      "name": "Grid layout",
+      "columns": "2"
+    },
+    "createdAt": "2022-08-02T12:58:55.784Z",
+    "createdBy": "talib",
+    "events": [],
+    "layout": null,
+    "name": "Grid layout",
+    "screenId": "eY4mGARxSCakJzqtkk6HI",
+    "subType": "component",
+    "type": "10001",
+    "updatedBy": "talib",
+    "version": "1.0.0"
+  },
+  {
+    "_id": "62e91f8fe6864b13b646c35d",
+    "gitBranchName": "master",
+    "id": "VFF2ABelD_fPSsAOXks2P",
+    "projectId": "62e7df6936ebd62558ff3485",
+    "attributes": {
+      "label": "Label",
+      "variant": "body1",
+      "name": "Label",
+      "mandatory": false,
+      "layoutProperties": {
+        "label": { "//": "Use this class to style label component." },
+        "mainContainer": "label",
+        "xl": 6,
+        "lg": 6,
+        "md": 6,
+        "sm": 6,
+        "xs": 6
+      }
+    },
+    "createdAt": "2022-08-02T12:58:55.784Z",
+    "createdBy": "talib",
+    "events": [],
+    "icon": "FaFont",
+    "name": "Label",
+    "screenId": "eY4mGARxSCakJzqtkk6HI",
+    "status": "ACTIVE",
+    "subType": "component",
+    "type": "20002",
+    "updatedBy": "talib",
+    "version": "1.0.0"
+  },
+  {
+    "_id": "62e92458e6864b13b646cad1",
+    "gitBranchName": "master",
+    "id": "nRXmq4OhNFr-i6argBie_",
+    "projectId": "62e7df6936ebd62558ff3485",
+    "attributes": {
+      "gridProps": [
+        {
+          "layoutProperties": {
+            "xl": 12,
+            "lg": 12,
+            "md": 12,
+            "sm": 12,
+            "xs": 12
+          },
+          "componentId": "e1rv8IeCDmqFgtWO_foih",
+          "componentType": "20022",
+          "order": 1
+        }
+      ],
+      "label": "Header",
+      "layoutProperties": {
+        "gridLayout": {
+          "//": "Use this class to style grid layout component.",
+          "padding": "5px",
+          "spacing": 0
+        },
+        "mainContainer": "gridLayout"
+      },
+      "layoutProps": {
+        "direction": "row",
+        "justifyContent": "flex-start",
+        "alignItems": "flex-start"
+      },
+      "direction": "row",
+      "name": "Grid layout"
+    },
+    "createdAt": "2022-08-02T13:19:20.657Z",
+    "createdBy": "talib",
+    "events": [],
+    "layout": null,
+    "name": "Grid layout",
+    "screenId": "eY4mGARxSCakJzqtkk6HI",
+    "subType": "component",
+    "type": "10001",
+    "updatedBy": "talib",
+    "version": "1.0.0"
+  },
+  {
+    "_id": "62e92458e6864b13b646cad2",
+    "gitBranchName": "master",
+    "id": "e1rv8IeCDmqFgtWO_foih",
+    "projectId": "62e7df6936ebd62558ff3485",
+    "Documentation": "",
+    "attributes": {
+      "label": "Sidebar",
+      "name": "Sidebar",
+      "bindingKey": "ascas",
+      "isMenuActivityLogEnabled": false,
+      "isFavoriteEnabled": false,
+      "layoutProperties": {
+        "menuItemClass": { "color": "white", "background-color": "#1c2b5a" },
+        "subMenuItemClass": { "color": "white", "background-color": "#394c85" },
+        "listItemIcon": { "color": "white", "margin-left": "5px" },
+        "mainContainer": "menuItemClass",
+        "xl": 12,
+        "lg": 12,
+        "md": 12,
+        "sm": 12,
+        "xs": 12
+      },
+      "menuActivityLogTriggerId": "",
+      "markFavouriteTriggerId": "",
+      "submenuNameKey": "qwf",
+      "submenuIconKey": "qwfqw",
+      "submenuId": "wfqf",
+      "submenuItemsKey": "fqwf",
+      "menuNameKey": "wqf",
+      "menuIconKey": "wqfqw",
+      "menuId": "fwq",
+      "menuTriggerId": "WYDoytgKG6H25ENoW6fV0",
+      "storeType": 1,
+      "permissions": []
+    },
+    "createdAt": "2022-08-02T13:19:20.657Z",
+    "createdBy": "talib",
+    "icon": "FaListAlt",
+    "name": "Sidebar",
+    "screenId": "eY4mGARxSCakJzqtkk6HI",
+    "status": "ACTIVE",
+    "subType": "component",
+    "type": "20022",
+    "updatedBy": "talib",
+    "version": "1.0.0"
+  }
+]
