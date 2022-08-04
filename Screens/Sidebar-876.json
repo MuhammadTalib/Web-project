@@ -178,7 +178,7 @@
           "submenuItemsKey": "data",
           "menuNameKey": "title",
           "menuIconKey": "wegwe",
-          "menuId": "r",
+          "menuId": "id",
           "menuTriggerId": "WYDoytgKG6H25ENoW6fV0",
           "storeType": 2,
           "permissions": {
@@ -1388,7 +1388,7 @@
       "submenuItemsKey": "data",
       "menuNameKey": "title",
       "menuIconKey": "wegwe",
-      "menuId": "r",
+      "menuId": "id",
       "menuTriggerId": "WYDoytgKG6H25ENoW6fV0",
       "storeType": 2,
       "permissions": {
