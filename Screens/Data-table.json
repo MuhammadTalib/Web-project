@@ -92,6 +92,58 @@
             "id": "vqPYfTX9pQe_VIaktEOQK",
             "gridProps": [
               {
+                "id": "lPkIJ_xrhNljE98yexGgw",
+                "status": "ACTIVE",
+                "name": "Text area",
+                "attributes": {
+                  "label": "",
+                  "stateName": "wqdqwfqw",
+                  "name": "Text Area",
+                  "minRows": 4,
+                  "rows": 4,
+                  "label-locale-key": "",
+                  "variant": "standard",
+                  "value": "",
+                  "readOnly": false,
+                  "tooltip": "",
+                  "font-family": "Verdana",
+                  "mandatory": true,
+                  "tooltipState": "",
+                  "layoutProperties": {
+                    "textField": {
+                      "//": "Use this class to style text field component.",
+                      "borderColor": "#822727",
+                      "borderStyle": "solid",
+                      "borderWidth": "2px"
+                    },
+                    "inputProps": {
+                      "//": "Use this class to style  text field element."
+                    },
+                    "mainContainer": "textField",
+                    "xl": 12,
+                    "lg": 12,
+                    "md": 12,
+                    "sm": 12,
+                    "xs": 12
+                  },
+                  "placeholder": "qwfqwfqw",
+                  "disableUnderline": true
+                },
+                "icon": "FaTextWidth",
+                "group": "Form",
+                "type": "20037",
+                "Documentation": "<div>components 12344</div>",
+                "updatedAt": "23-Aug-2021",
+                "createdAt": "23-Aug-2021",
+                "order": 20,
+                "version": "1.0.0",
+                "isLatest": true,
+                "projectType": "web",
+                "component": { "content": "Text area", "type": "20037" },
+                "events": [],
+                "path": "0-0-0"
+              },
+              {
                 "id": "UkIEj6t1ntp9v8YsSoxoa",
                 "status": "ACTIVE",
                 "name": "Checkbox",
@@ -425,6 +477,18 @@
     "projectId": "62e7df6936ebd62558ff3485",
     "attributes": {
       "gridProps": [
+        {
+          "layoutProperties": {
+            "xl": 12,
+            "lg": 12,
+            "md": 12,
+            "sm": 12,
+            "xs": 12
+          },
+          "componentId": "lPkIJ_xrhNljE98yexGgw",
+          "componentType": "20037",
+          "order": 1
+        },
         {
           "layoutProperties": {
             "xl": 12,
@@ -816,6 +880,56 @@
     "status": "ACTIVE",
     "subType": "component",
     "type": "20013",
+    "updatedBy": "talib",
+    "version": "1.0.0"
+  },
+  {
+    "_id": "62eb914ae6864b13b6496e35",
+    "gitBranchName": "master",
+    "id": "lPkIJ_xrhNljE98yexGgw",
+    "projectId": "62e7df6936ebd62558ff3485",
+    "Documentation": "<div>components 12344</div>",
+    "attributes": {
+      "label": "",
+      "stateName": "wqdqwfqw",
+      "name": "Text Area",
+      "minRows": 4,
+      "rows": 4,
+      "label-locale-key": "",
+      "variant": "standard",
+      "value": "",
+      "readOnly": false,
+      "tooltip": "",
+      "font-family": "Verdana",
+      "mandatory": true,
+      "tooltipState": "",
+      "layoutProperties": {
+        "textField": {
+          "//": "Use this class to style text field component.",
+          "borderColor": "#822727",
+          "borderStyle": "solid",
+          "borderWidth": "2px"
+        },
+        "inputProps": { "//": "Use this class to style  text field element." },
+        "mainContainer": "textField",
+        "xl": 12,
+        "lg": 12,
+        "md": 12,
+        "sm": 12,
+        "xs": 12
+      },
+      "placeholder": "qwfqwfqw",
+      "disableUnderline": true
+    },
+    "createdAt": "2022-08-04T09:28:42.603Z",
+    "createdBy": "talib",
+    "events": [],
+    "icon": "FaTextWidth",
+    "name": "Text area",
+    "screenId": "3dh2P8q23LAhPxkm9gSQw",
+    "status": "ACTIVE",
+    "subType": "component",
+    "type": "20037",
     "updatedBy": "talib",
     "version": "1.0.0"
   }
