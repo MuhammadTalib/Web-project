@@ -174,7 +174,7 @@
               "color": "#080231"
             },
             "sidebarScrollbarStyle": {
-              "width": "30px",
+              "width": "4px",
               "background": "#890606",
               "thumbBackground": "#C5C7E7"
             }
@@ -1390,7 +1390,7 @@
         "mainContainer": "sideBarMainContainer",
         "selectedMenuStyle": { "background": "#EAA9DC", "color": "#080231" },
         "sidebarScrollbarStyle": {
-          "width": "30px",
+          "width": "4px",
           "background": "#890606",
           "thumbBackground": "#C5C7E7"
         }
