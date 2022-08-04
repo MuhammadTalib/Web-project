@@ -92,6 +92,55 @@
             "id": "vqPYfTX9pQe_VIaktEOQK",
             "gridProps": [
               {
+                "id": "rLLoK9qDmqBoH5Zq9jst1",
+                "status": "ACTIVE",
+                "name": "Drop down",
+                "icon": "FaCaretSquareDown",
+                "group": "Form",
+                "updatedAt": "23-Aug-2021",
+                "createdAt": "23-Aug-2021",
+                "attributes": {
+                  "name": "Drop down",
+                  "stateName": "fromInstrument",
+                  "allValues": true,
+                  "dataSource": "casaAccountList",
+                  "dataKey": "accountNumber",
+                  "dataValue": "accountTitle",
+                  "mandatory": true,
+                  "validate": {
+                    "required": false,
+                    "errorMsg": "This Field is Required"
+                  },
+                  "layoutProperties": {
+                    "autocomplete": {
+                      "//": "Use this class to style autocomplete component in dropdown."
+                    },
+                    "textField": {
+                      "//": "Use this class to style textField component in dropdown."
+                    },
+                    "inputProps": {
+                      "//": "Use this class to style dropdown element."
+                    },
+                    "mainContainer": "autocomplete",
+                    "xl": 12,
+                    "lg": 12,
+                    "md": 12,
+                    "sm": 12,
+                    "xs": 12
+                  },
+                  "dropdownOptions": [],
+                  "variant": "standard"
+                },
+                "type": "20003",
+                "events": [],
+                "order": 10,
+                "version": "1.0.0",
+                "isLatest": true,
+                "projectType": "web",
+                "component": { "content": "Drop down", "type": "20003" },
+                "path": "0-0-0"
+              },
+              {
                 "id": "lPkIJ_xrhNljE98yexGgw",
                 "status": "ACTIVE",
                 "name": "Text area",
@@ -221,7 +270,9 @@
                     "lg": 12,
                     "md": 12,
                     "sm": 12,
-                    "xs": 12
+                    "xs": 12,
+                    "headerStyles": { "color": "#C91818" },
+                    "tableStyles": { "border-color": "#6F0101" }
                   },
                   "defaultColDef": {
                     "sortable": true,
@@ -437,7 +488,7 @@
                 "isLatest": true,
                 "projectType": "web",
                 "component": { "content": "Data table", "type": "20014" },
-                "path": "0-0-0",
+                "path": "0-0-2",
                 "events": []
               }
             ],
@@ -477,6 +528,18 @@
     "projectId": "62e7df6936ebd62558ff3485",
     "attributes": {
       "gridProps": [
+        {
+          "layoutProperties": {
+            "xl": 12,
+            "lg": 12,
+            "md": 12,
+            "sm": 12,
+            "xs": 12
+          },
+          "componentId": "rLLoK9qDmqBoH5Zq9jst1",
+          "componentType": "20003",
+          "order": 1
+        },
         {
           "layoutProperties": {
             "xl": 12,
@@ -624,7 +687,9 @@
         "lg": 12,
         "md": 12,
         "sm": 12,
-        "xs": 12
+        "xs": 12,
+        "headerStyles": { "color": "#C91818" },
+        "tableStyles": { "border-color": "#6F0101" }
       },
       "defaultColDef": {
         "sortable": true,
@@ -930,6 +995,50 @@
     "status": "ACTIVE",
     "subType": "component",
     "type": "20037",
+    "updatedBy": "talib",
+    "version": "1.0.0"
+  },
+  {
+    "_id": "62ebb2d1e6864b13b649ae5a",
+    "gitBranchName": "master",
+    "id": "rLLoK9qDmqBoH5Zq9jst1",
+    "projectId": "62e7df6936ebd62558ff3485",
+    "attributes": {
+      "name": "Drop down",
+      "stateName": "fromInstrument",
+      "allValues": true,
+      "dataSource": "casaAccountList",
+      "dataKey": "accountNumber",
+      "dataValue": "accountTitle",
+      "mandatory": true,
+      "validate": { "required": false, "errorMsg": "This Field is Required" },
+      "layoutProperties": {
+        "autocomplete": {
+          "//": "Use this class to style autocomplete component in dropdown."
+        },
+        "textField": {
+          "//": "Use this class to style textField component in dropdown."
+        },
+        "inputProps": { "//": "Use this class to style dropdown element." },
+        "mainContainer": "autocomplete",
+        "xl": 12,
+        "lg": 12,
+        "md": 12,
+        "sm": 12,
+        "xs": 12
+      },
+      "dropdownOptions": [],
+      "variant": "standard"
+    },
+    "createdAt": "2022-08-04T11:51:46.127Z",
+    "createdBy": "talib",
+    "events": [],
+    "icon": "FaCaretSquareDown",
+    "name": "Drop down",
+    "screenId": "3dh2P8q23LAhPxkm9gSQw",
+    "status": "ACTIVE",
+    "subType": "component",
+    "type": "20003",
     "updatedBy": "talib",
     "version": "1.0.0"
   }
