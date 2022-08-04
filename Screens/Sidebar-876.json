@@ -168,7 +168,8 @@
               "width": "350px",
               "background": "#4E0DAF"
             },
-            "mainContainer": "sideBarMainContainer"
+            "mainContainer": "sideBarMainContainer",
+            "selectedMenuStyle": { "background": "#EAA9DC", "color": "#080231" }
           },
           "menuActivityLogTriggerId": "",
           "markFavouriteTriggerId": "",
@@ -1378,7 +1379,8 @@
         },
         "listItemIcon": { "color": "white", "margin-left": "5px" },
         "sideBarMainContainer": { "width": "350px", "background": "#4E0DAF" },
-        "mainContainer": "sideBarMainContainer"
+        "mainContainer": "sideBarMainContainer",
+        "selectedMenuStyle": { "background": "#EAA9DC", "color": "#080231" }
       },
       "menuActivityLogTriggerId": "",
       "markFavouriteTriggerId": "",
