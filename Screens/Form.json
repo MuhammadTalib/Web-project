@@ -163,7 +163,7 @@
                             "xs": 12
                           },
                           "validate": {
-                            "required": false,
+                            "required": true,
                             "errorMsg": "This field is required",
                             "regexErrorMsg": "Password is required"
                           },
@@ -523,7 +523,7 @@
         "xs": 12
       },
       "validate": {
-        "required": false,
+        "required": true,
         "errorMsg": "This field is required",
         "regexErrorMsg": "Password is required"
       },
