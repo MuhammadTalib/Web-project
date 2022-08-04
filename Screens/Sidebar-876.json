@@ -169,7 +169,15 @@
               "background": "#4E0DAF"
             },
             "mainContainer": "sideBarMainContainer",
-            "selectedMenuStyle": { "background": "#EAA9DC", "color": "#080231" }
+            "selectedMenuStyle": {
+              "background": "#EAA9DC",
+              "color": "#080231"
+            },
+            "sidebarScrollbarStyle": {
+              "width": "30px",
+              "background": "#890606",
+              "thumbBackground": "#C5C7E7"
+            }
           },
           "menuActivityLogTriggerId": "",
           "markFavouriteTriggerId": "",
@@ -1380,7 +1388,12 @@
         "listItemIcon": { "color": "white", "margin-left": "5px" },
         "sideBarMainContainer": { "width": "350px", "background": "#4E0DAF" },
         "mainContainer": "sideBarMainContainer",
-        "selectedMenuStyle": { "background": "#EAA9DC", "color": "#080231" }
+        "selectedMenuStyle": { "background": "#EAA9DC", "color": "#080231" },
+        "sidebarScrollbarStyle": {
+          "width": "30px",
+          "background": "#890606",
+          "thumbBackground": "#C5C7E7"
+        }
       },
       "menuActivityLogTriggerId": "",
       "markFavouriteTriggerId": "",
