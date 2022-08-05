@@ -118,7 +118,7 @@
                                   },
                                   "validate": {
                                     "required": true,
-                                    "errorMsg": "Textfield is required"
+                                    "errorMsg": "Text field is required"
                                   },
                                   "placeholder": "",
                                   "buttonIconPosition": "start",
@@ -749,7 +749,7 @@
         "sm": 12,
         "xs": 12
       },
-      "validate": { "required": true, "errorMsg": "Textfield is required" },
+      "validate": { "required": true, "errorMsg": "Text field is required" },
       "placeholder": "",
       "buttonIconPosition": "start",
       "stateName": "textbocdd",
