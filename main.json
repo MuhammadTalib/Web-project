@@ -27,6 +27,21 @@
     ],
     "currentMode": "61b3836641f0ba30405a2d90",
     "theme": "",
+    "customCSS": [
+      {
+        "cssClassName": "textbox",
+        "css": "{\r\n    font-size: red;\r\n    color: green;\r\n}"
+      },
+      {
+        "cssClassName": "dreds",
+        "css": "{ \r\n    font-weight: 400;\r\n    background-color: greenyellow;\r\n}"
+      },
+      { "cssClassName": "pakdud", "css": "{\r\n    font-size: red;\r\n}" },
+      {
+        "cssClassName": "textboxStyle",
+        "css": "{\r\n    border: 1px solid red;\r\n    border-radius: 5px;\r\n}"
+      }
+    ],
     "securityConfigurations": [
       {
         "_id": "62e7e6322628d146a4bb7797",

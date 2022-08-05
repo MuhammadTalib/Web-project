@@ -115,7 +115,9 @@
                           },
                           "placeholder": "Username",
                           "buttonIconPosition": "start",
-                          "stateName": "username"
+                          "stateName": "username",
+                          "disableUnderline": true,
+                          "cssClassNames": [{ "cssClassName": "textboxStyle" }]
                         },
                         "icon": "FaWindowMinimize",
                         "group": "Form",
@@ -479,7 +481,9 @@
       },
       "placeholder": "Username",
       "buttonIconPosition": "start",
-      "stateName": "username"
+      "stateName": "username",
+      "disableUnderline": true,
+      "cssClassNames": [{ "cssClassName": "textboxStyle" }]
     },
     "createdAt": "2022-08-04T12:09:53.465Z",
     "createdBy": "talib",
