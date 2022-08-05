@@ -39,7 +39,7 @@
       { "cssClassName": "pakdud", "css": "{\r\n    font-size: red;\r\n}" },
       {
         "cssClassName": "textboxStyle",
-        "css": "{\r\n    border: 1px solid red;\r\n    border-radius: 5px;\r\n}"
+        "css": "{\r\n    border: 1px solid blue;\r\n    border-radius: 5px;\r\n}"
       }
     ],
     "securityConfigurations": [
