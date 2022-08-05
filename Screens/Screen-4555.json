@@ -120,6 +120,75 @@
                 "component": { "content": "Text Box", "type": "20004" },
                 "events": [],
                 "path": "0-0-0"
+              },
+              {
+                "id": "pv_mAMgoKtXfHFyb2pkvy",
+                "status": "ACTIVE",
+                "attributes": {
+                  "label": "Button",
+                  "variant": "contained",
+                  "name": "Button",
+                  "label-locale-key": "",
+                  "fullWidth": true,
+                  "layoutProperties": {
+                    "button": {
+                      "//": "Use this class to style button component."
+                    },
+                    "inputProps": {
+                      "//": "Use this class to style button element."
+                    },
+                    "mainContainer": "button",
+                    "xl": 12,
+                    "lg": 12,
+                    "md": 12,
+                    "sm": 12,
+                    "xs": 12
+                  }
+                },
+                "name": "Button",
+                "icon": "FaBimobject",
+                "group": "Form",
+                "type": "20006",
+                "Documentation": "<div>components 12344</div>",
+                "updatedAt": "23-Aug-2021",
+                "createdAt": "23-Aug-2021",
+                "order": 1,
+                "version": "1.0.0",
+                "isLatest": true,
+                "projectType": "web",
+                "component": { "content": "Button", "type": "20006" },
+                "events": [
+                  {
+                    "triggerId": "WYDoytgKG6H25ENoW6fV0",
+                    "triggerName": "FetchAccounts",
+                    "serviceType": "8",
+                    "attributes": {
+                      "loaderWidgetIds": [906070],
+                      "messageWidgetIds": [906070],
+                      "responseStateKey": "accounts",
+                      "url": "/fetchAccountGET",
+                      "checksum": true,
+                      "encryption": true,
+                      "isDeviceDetails": true,
+                      "loginTrigger": false,
+                      "formData": false,
+                      "logoutTrigger": false,
+                      "headers": {
+                        "Content-Type": "application/json",
+                        "Accept": "application/json",
+                        "channel_key": "001",
+                        "CSRF_TOKEN": "4c6e939d-db00-4697-82d8-b69bb05aef5a",
+                        "locale": "en-ltr"
+                      },
+                      "requestBody": [],
+                      "baseURL": "62e7e6322628d146a4bb7797",
+                      "storeType": 2
+                    },
+                    "type": "4",
+                    "name": "On Submit"
+                  }
+                ],
+                "path": "0-0-1"
               }
             ],
             "layoutProperties": {
@@ -159,6 +228,18 @@
           },
           "componentId": "XDrzU1KZm5lUu2pbh-1M2",
           "componentType": "20004",
+          "order": 1
+        },
+        {
+          "layoutProperties": {
+            "xl": 12,
+            "lg": 12,
+            "md": 12,
+            "sm": 12,
+            "xs": 12
+          },
+          "componentId": "pv_mAMgoKtXfHFyb2pkvy",
+          "componentType": "20006",
           "order": 1
         }
       ],
@@ -233,6 +314,49 @@
     "status": "ACTIVE",
     "subType": "component",
     "type": "20004",
+    "updatedBy": "talib",
+    "version": "1.0.0"
+  },
+  {
+    "_id": "62ed1eafe6864b13b64b24b4",
+    "gitBranchName": "master",
+    "id": "pv_mAMgoKtXfHFyb2pkvy",
+    "projectId": "62e7df6936ebd62558ff3485",
+    "Documentation": "<div>components 12344</div>",
+    "attributes": {
+      "label": "Button",
+      "variant": "contained",
+      "name": "Button",
+      "label-locale-key": "",
+      "fullWidth": true,
+      "layoutProperties": {
+        "button": { "//": "Use this class to style button component." },
+        "inputProps": { "//": "Use this class to style button element." },
+        "mainContainer": "button",
+        "xl": 12,
+        "lg": 12,
+        "md": 12,
+        "sm": 12,
+        "xs": 12
+      }
+    },
+    "createdAt": "2022-08-05T13:44:15.681Z",
+    "createdBy": "talib",
+    "events": [
+      {
+        "triggerId": "WYDoytgKG6H25ENoW6fV0",
+        "triggerName": "FetchAccounts",
+        "name": "On Submit",
+        "type": "4",
+        "serviceType": "8"
+      }
+    ],
+    "icon": "FaBimobject",
+    "name": "Button",
+    "screenId": "rA47KRBICY9rQ1BOTCZVm",
+    "status": "ACTIVE",
+    "subType": "component",
+    "type": "20006",
     "updatedBy": "talib",
     "version": "1.0.0"
   }
