@@ -90,7 +90,6 @@
                                 "status": "ACTIVE",
                                 "name": "Text Box",
                                 "attributes": {
-                                  "label": "Text box",
                                   "name": "Text box",
                                   "label-locale-key": "",
                                   "maxLength": 20,
@@ -120,13 +119,17 @@
                                     "required": true,
                                     "errorMsg": "Text field is required"
                                   },
-                                  "placeholder": "",
+                                  "placeholder": "Text box",
                                   "buttonIconPosition": "start",
                                   "stateName": "textbocdd",
                                   "errorMsg": {
                                     "required": true,
                                     "errorMsg": "This field is requirede"
-                                  }
+                                  },
+                                  "disableUnderline": true,
+                                  "cssClassNames": [
+                                    { "cssClassName": "textboxStyle" }
+                                  ]
                                 },
                                 "icon": "FaWindowMinimize",
                                 "group": "Form",
@@ -727,7 +730,6 @@
     "projectId": "62e7df6936ebd62558ff3485",
     "Documentation": "<div>components 12344</div>",
     "attributes": {
-      "label": "Text box",
       "name": "Text box",
       "label-locale-key": "",
       "maxLength": 20,
@@ -750,10 +752,12 @@
         "xs": 12
       },
       "validate": { "required": true, "errorMsg": "Text field is required" },
-      "placeholder": "",
+      "placeholder": "Text box",
       "buttonIconPosition": "start",
       "stateName": "textbocdd",
-      "errorMsg": { "required": true, "errorMsg": "This field is requirede" }
+      "errorMsg": { "required": true, "errorMsg": "This field is requirede" },
+      "disableUnderline": true,
+      "cssClassNames": [{ "cssClassName": "textboxStyle" }]
     },
     "createdAt": "2022-08-05T13:49:05.208Z",
     "createdBy": "talib",
