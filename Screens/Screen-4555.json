@@ -118,11 +118,15 @@
                                   },
                                   "validate": {
                                     "required": true,
-                                    "errorMsg": "This field is required"
+                                    "errorMsg": "Textfield is required"
                                   },
                                   "placeholder": "",
                                   "buttonIconPosition": "start",
-                                  "stateName": "textbocdd"
+                                  "stateName": "textbocdd",
+                                  "errorMsg": {
+                                    "required": true,
+                                    "errorMsg": "This field is requirede"
+                                  }
                                 },
                                 "icon": "FaWindowMinimize",
                                 "group": "Form",
@@ -745,10 +749,11 @@
         "sm": 12,
         "xs": 12
       },
-      "validate": { "required": true, "errorMsg": "This field is required" },
+      "validate": { "required": true, "errorMsg": "Textfield is required" },
       "placeholder": "",
       "buttonIconPosition": "start",
-      "stateName": "textbocdd"
+      "stateName": "textbocdd",
+      "errorMsg": { "required": true, "errorMsg": "This field is requirede" }
     },
     "createdAt": "2022-08-05T13:49:05.208Z",
     "createdBy": "talib",
