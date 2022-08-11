@@ -128,7 +128,6 @@
                                   },
                                   "disableUnderline": true,
                                   "cssClassNames": [
-                                    { "cssClassName": "textboxStyle" },
                                     { "cssClassName": "textboxStyle123456" },
                                     { "cssClassName": "textbox" }
                                   ],
@@ -188,10 +187,10 @@
                                   },
                                   "validate": {
                                     "required": true,
-                                    "errorMsg": "Password is required"
+                                    "errorMsg": "Token is required"
                                   },
                                   "cssClassNames": [
-                                    { "cssClassName": "textboxStyle" }
+                                    { "cssClassName": "textboxStyle123456" }
                                   ],
                                   "disableUnderline": true
                                 },
@@ -831,7 +830,6 @@
       "errorMsg": { "required": true, "errorMsg": "This field is requirede" },
       "disableUnderline": true,
       "cssClassNames": [
-        { "cssClassName": "textboxStyle" },
         { "cssClassName": "textboxStyle123456" },
         { "cssClassName": "textbox" }
       ],
@@ -883,8 +881,8 @@
         "sm": 12,
         "xs": 12
       },
-      "validate": { "required": true, "errorMsg": "Password is required" },
-      "cssClassNames": [{ "cssClassName": "textboxStyle" }],
+      "validate": { "required": true, "errorMsg": "Token is required" },
+      "cssClassNames": [{ "cssClassName": "textboxStyle123456" }],
       "disableUnderline": true
     },
     "createdAt": "2022-08-11T05:38:46.301Z",
