@@ -147,6 +147,63 @@
                                 },
                                 "events": [],
                                 "path": "0-0-0-0-0-0-0"
+                              },
+                              {
+                                "id": "LpsRH89eFfl_p0ViQaNCR",
+                                "status": "ACTIVE",
+                                "name": "Password",
+                                "icon": "FaKey",
+                                "group": "Form",
+                                "attributes": {
+                                  "label": "",
+                                  "variant": "standard",
+                                  "stateName": "password",
+                                  "label-locale-key": "",
+                                  "maxLength": "100",
+                                  "value": "",
+                                  "readOnly": false,
+                                  "tooltip": "",
+                                  "font-family": "Verdana",
+                                  "mandatory": true,
+                                  "storeType": 0,
+                                  "name": "Password",
+                                  "tooltipState": "",
+                                  "layoutProperties": {
+                                    "textField": {
+                                      "//": "Use this class to style password field component."
+                                    },
+                                    "inputProps": {
+                                      "//": "Use this class to style password field element."
+                                    },
+                                    "mainContainer": "textField",
+                                    "xl": 12,
+                                    "lg": 12,
+                                    "md": 12,
+                                    "sm": 12,
+                                    "xs": 12
+                                  },
+                                  "validate": {
+                                    "required": true,
+                                    "errorMsg": "Password is required"
+                                  },
+                                  "cssClassNames": [
+                                    { "cssClassName": "textboxStyle" }
+                                  ],
+                                  "disableUnderline": true
+                                },
+                                "updatedAt": "23-Aug-2021",
+                                "createdAt": "23-Aug-2021",
+                                "type": "20008",
+                                "order": 11,
+                                "version": "1.0.0",
+                                "isLatest": true,
+                                "projectType": "web",
+                                "component": {
+                                  "content": "Password",
+                                  "type": "20008"
+                                },
+                                "events": [],
+                                "path": "0-0-0-0-0-0-1"
                               }
                             ],
                             "layoutProperties": {
@@ -693,6 +750,18 @@
           "componentId": "L8Y017eUeRnfpMtNQ3T_P",
           "componentType": "20004",
           "order": 1
+        },
+        {
+          "layoutProperties": {
+            "xl": 12,
+            "lg": 12,
+            "md": 12,
+            "sm": 12,
+            "xs": 12
+          },
+          "componentId": "LpsRH89eFfl_p0ViQaNCR",
+          "componentType": "20008",
+          "order": 1
         }
       ],
       "label": "Header",
@@ -768,6 +837,55 @@
     "status": "ACTIVE",
     "subType": "component",
     "type": "20004",
+    "updatedBy": "talib",
+    "version": "1.0.0"
+  },
+  {
+    "_id": "62f495e6e6864b13b650cb4f",
+    "gitBranchName": "master",
+    "id": "LpsRH89eFfl_p0ViQaNCR",
+    "projectId": "62e7df6936ebd62558ff3485",
+    "attributes": {
+      "label": "",
+      "variant": "standard",
+      "stateName": "password",
+      "label-locale-key": "",
+      "maxLength": "100",
+      "value": "",
+      "readOnly": false,
+      "tooltip": "",
+      "font-family": "Verdana",
+      "mandatory": true,
+      "storeType": 0,
+      "name": "Password",
+      "tooltipState": "",
+      "layoutProperties": {
+        "textField": {
+          "//": "Use this class to style password field component."
+        },
+        "inputProps": {
+          "//": "Use this class to style password field element."
+        },
+        "mainContainer": "textField",
+        "xl": 12,
+        "lg": 12,
+        "md": 12,
+        "sm": 12,
+        "xs": 12
+      },
+      "validate": { "required": true, "errorMsg": "Password is required" },
+      "cssClassNames": [{ "cssClassName": "textboxStyle" }],
+      "disableUnderline": true
+    },
+    "createdAt": "2022-08-11T05:38:46.301Z",
+    "createdBy": "talib",
+    "events": [],
+    "icon": "FaKey",
+    "name": "Password",
+    "screenId": "rA47KRBICY9rQ1BOTCZVm",
+    "status": "ACTIVE",
+    "subType": "component",
+    "type": "20008",
     "updatedBy": "talib",
     "version": "1.0.0"
   }
