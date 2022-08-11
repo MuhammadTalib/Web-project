@@ -128,8 +128,12 @@
                                   },
                                   "disableUnderline": true,
                                   "cssClassNames": [
-                                    { "cssClassName": "textboxStyle" }
-                                  ]
+                                    { "cssClassName": "textboxStyle" },
+                                    { "cssClassName": "textboxStyle123456" },
+                                    { "cssClassName": "textbox" }
+                                  ],
+                                  "asset": null,
+                                  "iconname": "FaCube"
                                 },
                                 "icon": "FaWindowMinimize",
                                 "group": "Form",
@@ -826,7 +830,13 @@
       "stateName": "textbocdd",
       "errorMsg": { "required": true, "errorMsg": "This field is requirede" },
       "disableUnderline": true,
-      "cssClassNames": [{ "cssClassName": "textboxStyle" }]
+      "cssClassNames": [
+        { "cssClassName": "textboxStyle" },
+        { "cssClassName": "textboxStyle123456" },
+        { "cssClassName": "textbox" }
+      ],
+      "asset": null,
+      "iconname": "FaCube"
     },
     "createdAt": "2022-08-05T13:49:05.208Z",
     "createdBy": "talib",

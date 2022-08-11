@@ -33,13 +33,8 @@
         "css": "{\r\n    font-size: red;\r\n    color: green;\r\n}"
       },
       {
-        "cssClassName": "dreds",
-        "css": "{ \r\n    font-weight: 400;\r\n    background-color: greenyellow;\r\n}"
-      },
-      { "cssClassName": "pakdud", "css": "{\r\n    font-size: red;\r\n}" },
-      {
-        "cssClassName": "textboxStyle",
-        "css": "{\r\n    border: 1px solid blue;\r\n    border-radius: 5px;\r\n}"
+        "cssClassName": "textboxStyle123456",
+        "css": "{\r\n    border: 1px solid blue;\r\n    border-radius: 5px;\r\n    color: red;\r\n}"
       }
     ],
     "securityConfigurations": [
