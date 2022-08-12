@@ -5,9 +5,8 @@
     "id": 1,
     "name": "projectTalib",
     "version": "1.0.0",
-    "mainComponentId": "rA47KRBICY9rQ1BOTCZVm",
+    "mainComponentId": "w2EjLMSRlmbsm3mIK8d84",
     "locale": "en",
-    "appMode": "dev",
     "globalErrorType": "INLINE",
     "showWidgetError": true,
     "showWidgetSuccess": true,
@@ -18,7 +17,7 @@
         "_id": "61b3836641f0ba30405a2d90",
         "name": "Development",
         "configs": {
-          "_id": "62e7df6936ebd62558ff3487",
+          "_id": "62f4cb198c225d416c06f816",
           "serverPort": 3001,
           "clientPort": 3000,
           "ip": "localhost"
@@ -27,25 +26,15 @@
     ],
     "currentMode": "61b3836641f0ba30405a2d90",
     "theme": "",
-    "customCSS": [
-      {
-        "cssClassName": "textbox",
-        "css": "{\r\n    font-size: red;\r\n    color: green;\r\n}"
-      },
-      {
-        "cssClassName": "textboxStyle123456",
-        "css": "{\r\n    border: 1px solid blue;\r\n    border-radius: 5px;\r\n    color: red;\r\n}"
-      }
-    ],
     "securityConfigurations": [
       {
-        "_id": "62e7e6322628d146a4bb7797",
-        "name": "POSTMAN",
-        "baseUrl": "https://9d688355-247d-402b-807e-67df10b019a5.mock.pstmn.io",
+        "_id": "62f4cc308c225d416c06fa3b",
+        "name": "qwf",
+        "baseUrl": "qwfqw",
         "authorizationType": "JWT",
         "mode": "61b3836641f0ba30405a2d90",
-        "updatedAt": "2022-08-01T14:41:54.298Z",
-        "createdAt": "2022-08-01T14:41:54.298Z"
+        "updatedAt": "2022-08-11T09:30:24.225Z",
+        "createdAt": "2022-08-11T09:30:24.225Z"
       }
     ],
     "autoHideDuration": 10,

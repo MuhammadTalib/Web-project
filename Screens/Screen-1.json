@@ -1,0 +1,19 @@
+[
+  {
+    "_id": "62f4cb25e6864b13b6512ba7",
+    "gitBranchName": "master",
+    "id": "EWeiAZ_QSAee2bjDQXcMa",
+    "projectId": "62f4cb198c225d416c06f814",
+    "attributes": { "gridProps": [] },
+    "createdAt": "2022-08-11T09:25:57.346Z",
+    "createdBy": "talib",
+    "events": [],
+    "layout": [],
+    "name": "Screen 1",
+    "screenId": "EWeiAZ_QSAee2bjDQXcMa",
+    "subType": "screen",
+    "type": "10001",
+    "updatedBy": "talib",
+    "version": "1.0.0"
+  }
+]

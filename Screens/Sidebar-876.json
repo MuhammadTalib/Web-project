@@ -1,9 +1,9 @@
 [
   {
-    "_id": "62ea61a9e6864b13b6483024",
+    "_id": "62f4cc328c225d416c06fa6a",
     "gitBranchName": "master",
     "id": "x1xjxRrxgHR2rgCuC1YRY",
-    "projectId": "62e7df6936ebd62558ff3485",
+    "projectId": "62f4cb198c225d416c06f814",
     "attributes": {
       "gridProps": [
         {
@@ -34,7 +34,7 @@
         }
       ]
     },
-    "createdAt": "2022-08-03T11:53:13.000Z",
+    "createdAt": "2022-08-11T09:30:26.150Z",
     "createdBy": "talib",
     "events": [],
     "layout": [
@@ -166,7 +166,8 @@
             "listItemIcon": { "color": "white", "margin-left": "5px" },
             "sideBarMainContainer": {
               "width": "350px",
-              "background": "#4E0DAF"
+              "background": "#4E0DAF",
+              "collapsedWidth": "60px"
             },
             "mainContainer": "sideBarMainContainer",
             "selectedMenuStyle": {
@@ -1228,14 +1229,14 @@
     "screenId": "x1xjxRrxgHR2rgCuC1YRY",
     "subType": "screen",
     "type": "10001",
-    "updatedBy": "areeb",
+    "updatedBy": "talib",
     "version": "1.0.0"
   },
   {
-    "_id": "62ea61a9e6864b13b6483025",
+    "_id": "62f4cc328c225d416c06fa6b",
     "gitBranchName": "master",
     "id": "81Mgbb6qIqhYNGVnXbRFp",
-    "projectId": "62e7df6936ebd62558ff3485",
+    "projectId": "62f4cb198c225d416c06f814",
     "attributes": {
       "gridProps": [],
       "label": "Header",
@@ -1251,7 +1252,7 @@
       "direction": "row",
       "name": "Grid layout"
     },
-    "createdAt": "2022-08-03T11:53:13.000Z",
+    "createdAt": "2022-08-11T09:30:26.150Z",
     "createdBy": "talib",
     "events": [],
     "layout": null,
@@ -1259,14 +1260,14 @@
     "screenId": "x1xjxRrxgHR2rgCuC1YRY",
     "subType": "component",
     "type": "10001",
-    "updatedBy": "areeb",
+    "updatedBy": "talib",
     "version": "1.0.0"
   },
   {
-    "_id": "62ea62e7e6864b13b648336a",
+    "_id": "62f4cc328c225d416c06fa6c",
     "gitBranchName": "master",
     "id": "vFS34Jd0d7w1LEU_qiVbk",
-    "projectId": "62e7df6936ebd62558ff3485",
+    "projectId": "62f4cb198c225d416c06f814",
     "attributes": {
       "gridProps": [
         {
@@ -1299,7 +1300,7 @@
       "direction": "row",
       "name": "Grid layout"
     },
-    "createdAt": "2022-08-03T11:58:31.916Z",
+    "createdAt": "2022-08-11T09:30:26.150Z",
     "createdBy": "talib",
     "events": [
       {
@@ -1318,10 +1319,10 @@
     "version": "1.0.0"
   },
   {
-    "_id": "62ea638be6864b13b6483497",
+    "_id": "62f4cc328c225d416c06fa6d",
     "gitBranchName": "master",
     "id": "V4YGLXvjL5gXomZypWRhu",
-    "projectId": "62e7df6936ebd62558ff3485",
+    "projectId": "62f4cb198c225d416c06f814",
     "Documentation": "<div>components 12344</div>",
     "attributes": {
       "label": "swfqw",
@@ -1350,7 +1351,7 @@
       "placeholder": "",
       "stateName": "ddd"
     },
-    "createdAt": "2022-08-03T12:01:15.763Z",
+    "createdAt": "2022-08-11T09:30:26.150Z",
     "createdBy": "talib",
     "events": [],
     "icon": "FaWindowMinimize",
@@ -1363,10 +1364,10 @@
     "version": "1.0.0"
   },
   {
-    "_id": "62ea64aae6864b13b64836ac",
+    "_id": "62f4cc328c225d416c06fa6e",
     "gitBranchName": "master",
     "id": "K3oPEELpuoFj5FVP9sheO",
-    "projectId": "62e7df6936ebd62558ff3485",
+    "projectId": "62f4cb198c225d416c06f814",
     "attributes": {
       "label": "Sidebar",
       "name": "Sidebar",
@@ -1386,7 +1387,11 @@
           "background": "#800689"
         },
         "listItemIcon": { "color": "white", "margin-left": "5px" },
-        "sideBarMainContainer": { "width": "350px", "background": "#4E0DAF" },
+        "sideBarMainContainer": {
+          "width": "350px",
+          "background": "#4E0DAF",
+          "collapsedWidth": "60px"
+        },
         "mainContainer": "sideBarMainContainer",
         "selectedMenuStyle": { "background": "#EAA9DC", "color": "#080231" },
         "sidebarScrollbarStyle": {
@@ -2346,22 +2351,22 @@
         }
       ]
     },
-    "createdAt": "2022-08-03T12:06:02.503Z",
+    "createdAt": "2022-08-11T09:30:26.150Z",
     "createdBy": "talib",
+    "events": [],
     "layout": null,
     "name": "Sidebar",
     "screenId": "x1xjxRrxgHR2rgCuC1YRY",
     "subType": "component",
     "type": "20022",
-    "updatedBy": "areeb",
-    "version": "1.0.0",
-    "events": []
+    "updatedBy": "talib",
+    "version": "1.0.0"
   },
   {
-    "_id": "62ea754ae6864b13b648572f",
+    "_id": "62f4cc328c225d416c06fa6f",
     "gitBranchName": "master",
     "id": "TfXsW40kzDlCtnAIktdcw",
-    "projectId": "62e7df6936ebd62558ff3485",
+    "projectId": "62f4cb198c225d416c06f814",
     "attributes": {
       "gridProps": [
         {
@@ -2394,7 +2399,7 @@
       "direction": "row",
       "name": "Grid layout"
     },
-    "createdAt": "2022-08-03T13:16:58.818Z",
+    "createdAt": "2022-08-11T09:30:26.150Z",
     "createdBy": "talib",
     "events": [],
     "layout": null,
@@ -2402,14 +2407,14 @@
     "screenId": "x1xjxRrxgHR2rgCuC1YRY",
     "subType": "component",
     "type": "10001",
-    "updatedBy": "areeb",
+    "updatedBy": "talib",
     "version": "1.0.0"
   },
   {
-    "_id": "62ea754ae6864b13b6485730",
+    "_id": "62f4cc328c225d416c06fa70",
     "gitBranchName": "master",
     "id": "dHTFiIKKnjJ_vnuHNpuyu",
-    "projectId": "62e7df6936ebd62558ff3485",
+    "projectId": "62f4cb198c225d416c06f814",
     "attributes": {
       "label": "Label",
       "variant": "body1",
@@ -2429,7 +2434,7 @@
         "xs": 12
       }
     },
-    "createdAt": "2022-08-03T13:16:58.818Z",
+    "createdAt": "2022-08-11T09:30:26.150Z",
     "createdBy": "talib",
     "events": [],
     "icon": "FaFont",
@@ -2438,7 +2443,7 @@
     "status": "ACTIVE",
     "subType": "component",
     "type": "20002",
-    "updatedBy": "areeb",
+    "updatedBy": "talib",
     "version": "1.0.0"
   }
 ]

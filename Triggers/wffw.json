@@ -1,0 +1,30 @@
+{
+  "createdBy": "talib",
+  "updatedBy": "talib",
+  "_id": "62f4cf08e516c9343c13c76f",
+  "id": "bentsLAP6qEBEQgry0sS1",
+  "name": "wffw",
+  "projectId": "62f4cb198c225d416c06f814",
+  "gitBranchName": "master",
+  "services": [
+    {
+      "_id": "62f4cf08e516c9343c13c770",
+      "type": "1",
+      "command": {
+        "responseHandler": [],
+        "returns": [],
+        "_id": "62f4cf08e516c9343c13c771",
+        "attributes": {
+          "fromWidgetId": "EWeiAZ_QSAee2bjDQXcMa",
+          "nextWidgetId": "EWeiAZ_QSAee2bjDQXcMa",
+          "gridRadioValue": "Screen",
+          "editableForm": false
+        },
+        "type": "2"
+      }
+    }
+  ],
+  "createdAt": "11-Aug-2022",
+  "updatedAt": "11-Aug-2022",
+  "__v": 0
+}
