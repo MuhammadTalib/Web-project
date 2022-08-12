@@ -148,7 +148,7 @@
         "attributes": {
           "label": "Sidebar",
           "name": "Sidebar",
-          "bindingKey": "accounts.body",
+          "bindingKey": "menus",
           "isMenuActivityLogEnabled": false,
           "isFavoriteEnabled": false,
           "layoutProperties": {
@@ -189,14 +189,14 @@
           "menuNameKey": "title",
           "menuIconKey": "wegwe",
           "menuId": "id",
-          "menuTriggerId": "WYDoytgKG6H25ENoW6fV0",
+          "menuTriggerId": "wPj0Kr4XtqRWjJzrWY1TA",
           "storeType": 2,
           "permissions": {
             "1": "3dh2P8q23LAhPxkm9gSQw",
             "2": "U3bvTFfWLJSKhAJ1JP5Ka",
             "3": "GwzHHZcz1Q1QitD20u_gH"
           },
-          "homePageID": "U3bvTFfWLJSKhAJ1JP5Ka",
+          "homePageID": "bTXAN7WuQ-hg-BRwO8hp7",
           "permissionsTemp": [
             {
               "permission": "1",
@@ -1371,7 +1371,7 @@
     "attributes": {
       "label": "Sidebar",
       "name": "Sidebar",
-      "bindingKey": "accounts.body",
+      "bindingKey": "menus",
       "isMenuActivityLogEnabled": false,
       "isFavoriteEnabled": false,
       "layoutProperties": {
@@ -1409,14 +1409,14 @@
       "menuNameKey": "title",
       "menuIconKey": "wegwe",
       "menuId": "id",
-      "menuTriggerId": "WYDoytgKG6H25ENoW6fV0",
+      "menuTriggerId": "wPj0Kr4XtqRWjJzrWY1TA",
       "storeType": 2,
       "permissions": {
         "1": "3dh2P8q23LAhPxkm9gSQw",
         "2": "U3bvTFfWLJSKhAJ1JP5Ka",
         "3": "GwzHHZcz1Q1QitD20u_gH"
       },
-      "homePageID": "U3bvTFfWLJSKhAJ1JP5Ka",
+      "homePageID": "bTXAN7WuQ-hg-BRwO8hp7",
       "permissionsTemp": [
         {
           "permission": "1",

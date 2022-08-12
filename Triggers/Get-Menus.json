@@ -1,0 +1,42 @@
+{
+  "createdBy": "talib",
+  "updatedBy": "talib",
+  "_id": "62f5e5b0000bae1c384f77c7",
+  "id": "wPj0Kr4XtqRWjJzrWY1TA",
+  "projectId": "62f4cb198c225d416c06f814",
+  "gitBranchName": "master",
+  "name": "Get Menus",
+  "status": "ACTIVE",
+  "services": [
+    {
+      "_id": "62f5e5b0000bae1c384f77c8",
+      "type": "8",
+      "command": {
+        "responseHandler": [],
+        "returns": [],
+        "_id": "62f5e5b0000bae1c384f77c9",
+        "attributes": {
+          "loaderWidgetIds": [906070],
+          "messageWidgetIds": [906070],
+          "responseStateKey": "menus",
+          "responseReturnValue": "body",
+          "url": "/getMenus",
+          "checksum": true,
+          "encryption": true,
+          "isDeviceDetails": true,
+          "loginTrigger": false,
+          "formData": false,
+          "logoutTrigger": false,
+          "headers": {},
+          "requestBody": [],
+          "baseURL": "62f4cc308c225d416c06fa3b",
+          "storeType": 2
+        },
+        "type": "1"
+      }
+    }
+  ],
+  "createdAt": "12-Aug-2022",
+  "updatedAt": "12-Aug-2022",
+  "__v": 0
+}
