@@ -92,6 +92,55 @@
             "id": "vqPYfTX9pQe_VIaktEOQK",
             "gridProps": [
               {
+                "type": "10001",
+                "name": "Grid layout",
+                "id": "C0G0FHEg9VnCOTTh6bniV",
+                "gridProps": [
+                  {
+                    "type": "column",
+                    "id": "A0KmafBzWXIc9nR8XSuhW",
+                    "gridProps": [],
+                    "layoutProperties": {
+                      "xl": 12,
+                      "lg": 12,
+                      "md": 12,
+                      "sm": 12,
+                      "xs": 12
+                    }
+                  }
+                ],
+                "allowedContainers": [
+                  "10001",
+                  "20030",
+                  "noLayout",
+                  "20010",
+                  "widget"
+                ],
+                "attributes": {
+                  "gridProps": [],
+                  "label": "Header",
+                  "layoutProperties": {
+                    "gridLayout": {
+                      "//": "Use this class to style grid layout component.",
+                      "padding": "5px",
+                      "spacing": 0,
+                      "height": "400px",
+                      "background": "#B62F2F"
+                    },
+                    "mainContainer": "gridLayout"
+                  },
+                  "layoutProps": {
+                    "direction": "row",
+                    "justifyContent": "flex-start",
+                    "alignItems": "flex-start"
+                  },
+                  "direction": "row",
+                  "name": "Grid layout"
+                },
+                "events": [],
+                "component": { "type": "10001", "content": "Grid layout" }
+              },
+              {
                 "id": "rLLoK9qDmqBoH5Zq9jst1",
                 "status": "ACTIVE",
                 "name": "Drop down",
@@ -528,6 +577,25 @@
     "projectId": "62f4cb198c225d416c06f814",
     "attributes": {
       "gridProps": [
+        {
+          "componentId": "C0G0FHEg9VnCOTTh6bniV",
+          "componentType": "10001",
+          "id": "C0G0FHEg9VnCOTTh6bniV",
+          "position": {
+            "i": "C0G0FHEg9VnCOTTh6bniV",
+            "x": null,
+            "y": null,
+            "w": null,
+            "h": null
+          },
+          "layoutProperties": {
+            "xl": 12,
+            "lg": 12,
+            "md": 12,
+            "sm": 12,
+            "xs": 12
+          }
+        },
         {
           "layoutProperties": {
             "xl": 12,
@@ -1039,6 +1107,43 @@
     "status": "ACTIVE",
     "subType": "component",
     "type": "20003",
+    "updatedBy": "talib",
+    "version": "1.0.0"
+  },
+  {
+    "_id": "62f5ec63e6864b13b651cdc8",
+    "gitBranchName": "master",
+    "id": "C0G0FHEg9VnCOTTh6bniV",
+    "projectId": "62f4cb198c225d416c06f814",
+    "attributes": {
+      "gridProps": [],
+      "label": "Header",
+      "layoutProperties": {
+        "gridLayout": {
+          "//": "Use this class to style grid layout component.",
+          "padding": "5px",
+          "spacing": 0,
+          "height": "400px",
+          "background": "#B62F2F"
+        },
+        "mainContainer": "gridLayout"
+      },
+      "layoutProps": {
+        "direction": "row",
+        "justifyContent": "flex-start",
+        "alignItems": "flex-start"
+      },
+      "direction": "row",
+      "name": "Grid layout"
+    },
+    "createdAt": "2022-08-12T06:00:03.438Z",
+    "createdBy": "talib",
+    "events": [],
+    "layout": null,
+    "name": "Grid layout",
+    "screenId": "3dh2P8q23LAhPxkm9gSQw",
+    "subType": "component",
+    "type": "10001",
     "updatedBy": "talib",
     "version": "1.0.0"
   }
