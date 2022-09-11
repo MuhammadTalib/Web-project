@@ -698,7 +698,7 @@
     "screenId": "w2EjLMSRlmbsm3mIK8d84",
     "subType": "screen",
     "type": "10001",
-    "updatedBy": "talib",
+    "updatedBy": "haseeb",
     "version": "1.0.0"
   },
   {
@@ -759,7 +759,7 @@
     "screenId": "w2EjLMSRlmbsm3mIK8d84",
     "subType": "component",
     "type": "10001",
-    "updatedBy": "talib",
+    "updatedBy": "haseeb",
     "version": "1.0.0"
   },
   {
@@ -818,7 +818,7 @@
     "status": "ACTIVE",
     "subType": "component",
     "type": "20022",
-    "updatedBy": "talib",
+    "updatedBy": "haseeb",
     "version": "1.0.0"
   },
   {
@@ -904,7 +904,7 @@
     "screenId": "w2EjLMSRlmbsm3mIK8d84",
     "subType": "component",
     "type": "10001",
-    "updatedBy": "talib",
+    "updatedBy": "haseeb",
     "version": "1.0.0"
   },
   {
@@ -941,7 +941,7 @@
     "status": "ACTIVE",
     "subType": "component",
     "type": "20002",
-    "updatedBy": "talib",
+    "updatedBy": "haseeb",
     "version": "1.0.0"
   },
   {
@@ -990,7 +990,7 @@
     "screenId": "w2EjLMSRlmbsm3mIK8d84",
     "subType": "component",
     "type": "10001",
-    "updatedBy": "talib",
+    "updatedBy": "haseeb",
     "version": "1.0.0"
   },
   {
@@ -1032,7 +1032,7 @@
     "screenId": "w2EjLMSRlmbsm3mIK8d84",
     "subType": "component",
     "type": "20004",
-    "updatedBy": "talib",
+    "updatedBy": "haseeb",
     "version": "1.0.0"
   },
   {
@@ -1077,7 +1077,7 @@
     "status": "ACTIVE",
     "subType": "component",
     "type": "20003",
-    "updatedBy": "talib",
+    "updatedBy": "haseeb",
     "version": "1.0.0"
   },
   {
@@ -1131,7 +1131,7 @@
     "screenId": "w2EjLMSRlmbsm3mIK8d84",
     "subType": "component",
     "type": "10001",
-    "updatedBy": "talib",
+    "updatedBy": "haseeb",
     "version": "1.0.0"
   },
   {
@@ -1173,7 +1173,7 @@
     "status": "ACTIVE",
     "subType": "component",
     "type": "20007",
-    "updatedBy": "talib",
+    "updatedBy": "haseeb",
     "version": "1.0.0"
   },
   {
@@ -1218,7 +1218,7 @@
     "status": "ACTIVE",
     "subType": "component",
     "type": "20004",
-    "updatedBy": "talib",
+    "updatedBy": "haseeb",
     "version": "1.0.0"
   },
   {
@@ -1263,7 +1263,7 @@
     "status": "ACTIVE",
     "subType": "component",
     "type": "20004",
-    "updatedBy": "talib",
+    "updatedBy": "haseeb",
     "version": "1.0.0"
   }
 ]

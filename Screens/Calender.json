@@ -181,7 +181,7 @@
     "screenId": "bTXAN7WuQ-hg-BRwO8hp7",
     "subType": "screen",
     "type": "10001",
-    "updatedBy": "talib",
+    "updatedBy": "haseeb",
     "version": "1.0.0"
   },
   {
@@ -241,7 +241,7 @@
     "screenId": "bTXAN7WuQ-hg-BRwO8hp7",
     "subType": "component",
     "type": "10001",
-    "updatedBy": "talib",
+    "updatedBy": "haseeb",
     "version": "1.0.0"
   },
   {
@@ -284,7 +284,7 @@
     "status": "ACTIVE",
     "subType": "component",
     "type": "20027",
-    "updatedBy": "talib",
+    "updatedBy": "haseeb",
     "version": "1.0.0"
   },
   {
@@ -326,7 +326,7 @@
     "status": "ACTIVE",
     "subType": "component",
     "type": "20027",
-    "updatedBy": "talib",
+    "updatedBy": "haseeb",
     "version": "1.0.0"
   }
 ]
